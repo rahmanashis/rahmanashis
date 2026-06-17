@@ -94,4 +94,4 @@ Open to internships, collaborations, and meaningful engineering challenges.<br><
 ![](https://github-profile-trophy.vercel.app/?username=rahmanashis01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
