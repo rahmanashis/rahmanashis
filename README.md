@@ -26,7 +26,8 @@ I'm a SWE student and currently working remotely as a junior system devops engin
 • Foundation Certified IT Associate (LFCA)<br>
 • Cisco Certified DevNet Associate <br>
 • AWS Certified Cloud Practitioner<br>
-• AWS Certified Associate Solutions Architect<br>
+• AWS Certified AI Practitioner<br>
+• AWS Certified Developer - Associate<br>
 • Oracle Certified Developer Associate<br>
 • Oracle Cloud Certified DevOps Professional<br>
 • DB Academy Certified Database Developer<br>
