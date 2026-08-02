@@ -52,7 +52,7 @@ Open to internships, collaborations, and meaningful engineering challenges.<br><
 
 ### 🖥️ Terminal & Scripting:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Native Shell](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ☁️ Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
