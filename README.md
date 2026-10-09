@@ -117,8 +117,16 @@ Open to internships, collaborations, and meaningful engineering challenges.<br><
 ![](https://nirzak-streak-stats.vercel.app/?user=rahmanashis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanashis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahmanashis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahmanashis&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## ✍️ Favorite Quote
+
+> There are only two hard things in Computer Science: cache invalidation and naming things.
+>
+> — *Phil Karlton*
+
